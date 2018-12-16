@@ -1,7 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
+Using different clustering algorithms and finding the best possible route for travel based on the crime rate and types of different areas in the route. Deployed on Rails.
 
 Things you may want to cover:
 
@@ -21,4 +21,3 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
